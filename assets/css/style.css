@@ -332,13 +332,21 @@ header .navbar ul li a:hover {
     margin-top: 12rem;
   }
   .home .image img {
-    margin-top: -12rem;
+    margin-top: 0rem;
   }
   .home .content p {
     font-size: 2.2rem;
   }
   .home .content p span {
     font-size: 2.2rem;
+  }
+
+  .home .content h2 {
+    padding-top:30px ;
+    font-size: 4rem;
+  }
+  .home .content h2 span {
+    font-size: 4rem;
   }
 }
 /* hero media queries ends*/
@@ -876,7 +884,7 @@ span.text {
 }
 .work .box-container .box .content .tag h3 {
   font-size: 2rem;
-  
+
   
 }
 .work .box-container .box:hover .content {
