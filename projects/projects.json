@@ -29,15 +29,5 @@
         "view": "http://example.com",
         "code": "http://github.com"
     }
-  },
-  {
-    "name": "Coming Soon",
-    "desc": "...............",
-    "image": "",
-    "category": "android",
-    "links": {
-       "view": "http://example.com",
-        "code": "http://github.com"
-    }
   }
 ]
