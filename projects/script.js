@@ -32,7 +32,7 @@ document.addEventListener('visibilitychange',
 
 // fetch projects start
 function getProjects() {
-    return fetch("projects.json")
+    return fetch("https://aryawardhana-snowy.vercel.app/projects/projects.json")
         .then(response => response.json())
         .then(data => {
             return data
