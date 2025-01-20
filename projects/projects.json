@@ -1,33 +1,37 @@
 [
   
-    {
-      "name": "Smile Kids Website",
-      "desc": "This project is a web development initiative specifically designed for Smile Kids, an innovative platform offering modern education and daycare services",
-      "image": "../assets/images/projects/SmileKids.png",
-      "category": "website",
-      "links": {
-        "view": "http://example.com",
-        "code": "http://github.com"
-      }
-    },
+ 
   {
     "name": "TanyaKakak website",
     "desc": "Tanya Kakak is an innovative web platform that connects students and young professionals with mentors, empowering them to develop skills, create sustainable ideas, and compete in SDG-aligned events.",
-    "image": "../assets/images/projects/TanyaKakak.png",
+    "image": "../assets/images/projects/TanyaKakak2.png",
     "category": "website",
     "links": {
-        "view": "http://example.com",
-        "code": "http://github.com"
+        "view": "https://tanyakakakwebsite.vercel.app/",
+        "code": "https://github.com/aryawardhana15"
     }
   },
+    
+
   {
-    "name": "Food court database",
-    "desc": "The Food Court Database UNESA is a system designed to efficiently manage menus, vendors, transactions, and customer preferences, ensuring smooth operations and organized functionality.",
-    "image": "../assets/images/projects/database.png",
-    "category": "database",
+    "name": "BataraFest 2024 website",
+    "desc": "This website aims to serve as a bridge between the Batarafest event and a digital audience, showcasing the richness of local culture to a broader audience through technology.",
+    "image": "../assets/images/projects/batarafest.png",
+    "category": "website",
     "links": {
-        "view": "http://example.com",
-        "code": "http://github.com"
+      "view": "https://batarafest.vercel.app/",
+      "code": "https://github.com/aryawardhana15"
+    }
+  },
+
+  {
+    "name": "Smile Kids Website",
+    "desc": "This project is a web development initiative specifically designed for Smile Kids, an innovative platform offering modern education and daycare services",
+    "image": "../assets/images/projects/SmileKids.png",
+    "category": "website",
+    "links": {
+      "view": "http://example.com",
+      "code": "https://github.com/aryawardhana15"
     }
   }
 ]
