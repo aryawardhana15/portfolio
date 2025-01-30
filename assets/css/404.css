@@ -215,7 +215,7 @@ header .navbar ul li a:hover{
 .footer{
   min-height: auto;
   padding-top: 0;
-  background: rgb(0, 1, 43);
+  background: linear-gradient(90deg, #025b50, #90e8f4); 
 }
 .footer .box-container{
   display: flex;

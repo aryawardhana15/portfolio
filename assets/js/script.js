@@ -268,5 +268,5 @@ document.querySelector(".logos").appendChild(copy);
 document.addEventListener("DOMContentLoaded", () => {
     const slideContainer = document.querySelector(".logos-slide");
     const logos = Array.from(slideContainer.children); // Array dari elemen logo
-});
+}); 
 
