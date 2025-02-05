@@ -8,7 +8,7 @@
     "category": "website",
     "links": {
         "view": "https://tanyakakakwebsite.vercel.app/",
-        "code": "https://github.com/aryawardhana15"
+        "code": "https://github.com/aryawardhana15/TanyaKakaknew"
     }
   },
     
@@ -20,18 +20,18 @@
     "category": "website",
     "links": {
       "view": "https://batarafest.vercel.app/",
-      "code": "https://github.com/aryawardhana15"
+      "code": "https://github.com/aryawardhana15/Batarafest"
     }
   },
 
   {
     "name": "Smile Kids Website",
     "desc": "This project is a web development initiative specifically designed for Smile Kids, an innovative platform offering modern education and daycare services",
-    "image": "../assets/images/projects/SmileKids.png",
+    "image": "../assets/images/projects/SmileKids2.png",
     "category": "website",
     "links": {
-      "view": "http://example.com",
-      "code": "https://github.com/aryawardhana15"
+      "view": "https://smilekids.vercel.app/",
+      "code": "https://github.com/aryawardhana15/Smilekidsproject"
     }
   }
 ]
