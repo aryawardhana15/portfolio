@@ -27,7 +27,7 @@
   {
     "name": "Smile Kids Website",
     "desc": "This project is a web development initiative specifically designed for Smile Kids, an innovative platform offering modern education and daycare services",
-    "image": "../assets/images/projects/SmileKids2.png",
+    "image": "../assets/images/projects/SmileKids.png",
     "category": "website",
     "links": {
       "view": "https://smilekids.vercel.app/",
