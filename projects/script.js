@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(document).ready(function () { //jquery untuk mastiin dom nya udah dimuat sblm di eksekusi
 
     $('#menu').click(function () {
         $(this).toggleClass('fa-times');
@@ -97,7 +97,7 @@ function showProjects(projects) {
         $(this).addClass('is-checked');
         var filterValue = $(this).attr('data-filter');
         $grid.isotope({ filter: filterValue });
-    });
+    }); //saat tombol filternya di klik, jquerry memperbarui elemen yg ditambilkan
 }
 
 getProjects().then(data => {
